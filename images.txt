@@ -10,3 +10,9 @@ redis:7.2.4
 infiniflow/ragflow:v0.12.0
 docker.elastic.co/elasticsearch/elasticsearch:8.11.3
 --platform windows mintplexlabs/anythingllm
+--platform linux/arm64 milvusdb/milvus:v2.2.0
+--platform linux/arm64 mysql:latest
+--platform linux/arm64 ollama/ollama:latest
+ollama/ollama:latest
+--platform linux/arm64 php:latest
+--platform linux/arm64 homeassistant/home-assistant:latest
